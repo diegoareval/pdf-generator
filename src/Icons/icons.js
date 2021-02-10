@@ -1,4 +1,4 @@
-const { faGithub, faMedium } = require("@fortawesome/free-brands-svg-icons");
+const { faMedium } = require("@fortawesome/free-brands-svg-icons");
 
 export const Icons = [
     {
